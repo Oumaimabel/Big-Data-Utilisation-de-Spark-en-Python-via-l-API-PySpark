@@ -1,6 +1,6 @@
 # Utilisation de Spark en Python via l'API PySpark
 
-![Pyspark](https://user-images.githubusercontent.com/93741954/182474156-72b271e0-326a-4dee-bf46-87a834ecb3b2.png)
+![Pyspark](https://user-images.githubusercontent.com/93741954/182474502-2e1286a0-2fa5-4bec-8194-fe57b3614b12.png)
 
 Internet, l’apparition de la 3G, 4G et actuellement de la 5G, les grandes 
 installations scientifiques génèrent une immensité de données traitables. En 2020 
