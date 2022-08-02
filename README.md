@@ -1,5 +1,7 @@
 # Utilisation de Spark en Python via l'API PySpark
 
+![Pyspark](https://user-images.githubusercontent.com/93741954/182474156-72b271e0-326a-4dee-bf46-87a834ecb3b2.png)
+
 Internet, l’apparition de la 3G, 4G et actuellement de la 5G, les grandes 
 installations scientifiques génèrent une immensité de données traitables. En 2020 
 une analyse a révélé que 40 zéctaoctets sont générés par an, 204 millions d’e-mails 
